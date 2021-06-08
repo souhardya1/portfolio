@@ -1,0 +1,138 @@
+body{
+    background-color:white;
+    font-family: comic;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+
+.intro{
+    background-color: #E0EBE8;
+    text-align: center;
+}
+.mountain{
+    height:auto;
+    width:50%;
+    margin-bottom: 0;
+
+}
+.cloud1{
+    
+    position:absolute;
+    top:10%;
+    width: 20%;
+ 
+}
+
+.about{
+    text-align: center;
+    margin-left: auto;
+    margin: 100px 0px;
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    border-color:  grey;
+    border-style:none ;
+    border-width: 5px;;
+    border-top-style: dotted;
+    height:0px;
+    width: 10%;
+}
+
+h1{
+    color: #4AB19A;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 560%;
+
+}
+
+h3{
+    color:#4AB19A;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+        
+}
+
+.python{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.analysis{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.web{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.ml{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.footer{
+    padding-left: 35%;
+}
+
+
+
+
+.butt
+{
+    border: 2px solid #4AB19A;
+    background: none;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    transition: 0.8s;
+    color:#4AB19A ;
+}
+
+.butt:hover
+{
+    color:violet;
+}
+
+.contact{
+    background-color: #E0EBE8;
+    margin-left: auto;
+    margin-right: auto;
+}
